@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trishul Krishna</h1>
 <h3 align="center">An Aspiring Data Analyst from India</h3>
 
-- 🔭 I’m currently working on **Shield Insurence**
+- 🔭 I’m currently working on **Shield Insurence Project**
 
 - 🌱 I’m currently learning **Microsoft Fabric**
 
