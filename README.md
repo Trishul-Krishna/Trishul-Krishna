@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Trishul Krishna</h1>
 <h3 align="center">An Aspiring Data Analyst from India</h3>
 
+- 🔭 I’m currently working on **Shield Insurence**
 
-
-- 🔭 I’m currently working on **AtliQ- Business Insights--360**
-
-- 🌱 I’m currently learning **Microsoft PowerBI**
+- 🌱 I’m currently learning **Microsoft Fabric**
 
 - 👯 I’m looking to collaborate on **Generative AI Projects**
 
 - 🤝 I’m looking for help with **Data Analytics**
+
+- 👨‍💻 All of my projects are available at [https://codebasics.io/portfolio/Trishul-krishna](https://codebasics.io/portfolio/Trishul-krishna)
 
 - 💬 Ask me about **Data Analytics**
 
